@@ -1,0 +1,12 @@
+Pillow
+transformers==4.44.2
+librosa
+soundfile
+vector-quantize-pytorch
+vocos
+decord
+moviepy
+pandas
+numpy<2
+tqdm
+ipywidgets
