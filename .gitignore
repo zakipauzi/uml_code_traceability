@@ -1,1 +1,7 @@
 *.pdf
+.env
+downloaded_graphics/*
+files_json/*
+images/*
+cache/*
+llm_check/*
