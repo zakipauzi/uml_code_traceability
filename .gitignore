@@ -4,4 +4,5 @@ downloaded_graphics/*
 files_json/*
 images/*
 cache/*
+class_diagrams/*
 llm_check/*
