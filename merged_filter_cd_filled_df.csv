@@ -1,0 +1,420 @@
+Project,UML_Diagrams_previous,Commit SHA,Status,Notes
+4dnucleome/cog-abm/,AgentClassDiagram.png,6f6450141a996b067d3a396d47f4386215a4042c,TRUE,
+4dnucleome/cog-abm/,doc/SimulationClassDiagram.png,6f6450141a996b067d3a396d47f4386215a4042c,TRUE,
+4dnucleome/cog-abm/,SimulationClassDiagram.png,6f6450141a996b067d3a396d47f4386215a4042c,TRUE,
+4dnucleome/cog-abm/,doc/AgentClassDiagram.png,6f6450141a996b067d3a396d47f4386215a4042c,TRUE,
+abreitenfeld/QCrystalTile/,doc/architecture/architecture.svg,6f6450141a996b067d3a396d47f4386215a4042c,TRUE,
+abulka/pynsource/,Admin/doco-uml/OGL-like UML.png,b1b6d8cdc19d3a59c194caebce3e80e838468780,TRUE,
+abulka/pynsource/,Research/misc information and doco/pyNSourceUML_example01.gif,b1b6d8cdc19d3a59c194caebce3e80e838468780,TRUE,
+abulka/pynsource/,Research/wx doco/Images/outyuml_big.png,b1b6d8cdc19d3a59c194caebce3e80e838468780,TRUE,
+abulka/pynsource/,Research/yuml_python/outyuml2.png,b1b6d8cdc19d3a59c194caebce3e80e838468780,TRUE,
+abulka/pynsource/,Research/yuml_python/yuml_order_example.png,b1b6d8cdc19d3a59c194caebce3e80e838468780,TRUE,
+abulka/pynsource/,Research/yuml_python/yuml_pynsource1_example.png,b1b6d8cdc19d3a59c194caebce3e80e838468780,TRUE,
+abulka/pynsource/,Research/yuml_python/yuml_pynsource2_example.png,b1b6d8cdc19d3a59c194caebce3e80e838468780,TRUE,
+abulka/pynsource/,Research/yuml_python/yuml_pynsource3_example.png,b1b6d8cdc19d3a59c194caebce3e80e838468780,TRUE,
+adityaapte/CERR/,Unit_Testing/matlab_xunit_3/matlab_xunit/architecture/html/class_diagram_a.gif,1605bfab1d55ba43116bd046a11429a9a595e6f9,TRUE,
+adityaapte/CERR/,Unit_Testing/matlab_xunit_3/matlab_xunit/architecture/html/class_diagram_b.gif,1605bfab1d55ba43116bd046a11429a9a595e6f9,TRUE,
+adityaapte/CERR/,Unit_Testing/matlab_xunit_3/matlab_xunit/architecture/html/class_diagram_c.gif,1605bfab1d55ba43116bd046a11429a9a595e6f9,TRUE,
+afarber/alexander-farber/,thesis/class-diagram-1.gif,,FALSE,missing commit
+afarber/alexander-farber/,thesis/class-diagram-2.gif,,FALSE,missing commit
+AlessandroSanino1994/NerdOrDungeons/,UML/UML.png,9bcde7c1b161e4f33f23b3d179c48a164aec7236,TRUE,
+AnalogDevicesLyricLabs/dimple/,modelers/matlab/lib/xunit_dist/matlab_xunit/architecture/html/class_diagram_a.gif,507a0dd8a437a5d794dcc9be183bc88de309d393,TRUE,
+AnalogDevicesLyricLabs/dimple/,modelers/matlab/lib/xunit_dist/matlab_xunit/architecture/html/class_diagram_b.gif,507a0dd8a437a5d794dcc9be183bc88de309d393,TRUE,
+AnalogDevicesLyricLabs/dimple/,modelers/matlab/lib/xunit_dist/matlab_xunit/architecture/html/class_diagram_c.gif,507a0dd8a437a5d794dcc9be183bc88de309d393,TRUE,
+Andresteve07/FINAL_AyED/,Informe/Imagenes/DiagramaClases_v1.png,1c4b96f23ad871a9fb8cb468c31f28516d19ab86,TRUE,
+Andresteve07/FINAL_AyED/,Informe/Imagenes/Diagrama_Clases_Final_AyED.png,1c4b96f23ad871a9fb8cb468c31f28516d19ab86,TRUE,
+Andresteve07/FINAL_AyED/,Informe/Imagenes/Diagrama_Clases_Final_AyED_v2.png,1c4b96f23ad871a9fb8cb468c31f28516d19ab86,TRUE,
+Andresteve07/FINAL_AyED/,Otros/DiagramaClases_v1.png,1c4b96f23ad871a9fb8cb468c31f28516d19ab86,TRUE,
+Andresteve07/FINAL_AyED/,Otros/Diagrama_Clases_Final_AyED.png,1c4b96f23ad871a9fb8cb468c31f28516d19ab86,TRUE,
+Andresteve07/FINAL_AyED/,Otros/Diagrama_Clases_Final_AyED_v2.png,1c4b96f23ad871a9fb8cb468c31f28516d19ab86,TRUE,
+Andresteve07/FINAL_AyED/,Otros/Diagrama_Clases_Final_AyED.xmi,1c4b96f23ad871a9fb8cb468c31f28516d19ab86,FALSE,OOS
+Andresteve07/FINAL_AyED/,Otros/Diagrama_Clases_Final_AyED_v2.xmi,1c4b96f23ad871a9fb8cb468c31f28516d19ab86,FALSE,OOS
+AOKP/frameworks_base_disabled/,https://www.github.com/AOKP/frameworks_base_disabled/tree/jb/docs/html/images/mediaplayer_state_diagram.gif,761a2a36a42e557c00838ffa84b4ef524183867e,FALSE,not class diagram
+AOKP/frameworks_base_disabled/,https://www.github.com/AOKP/frameworks_base_disabled/tree/jb/docs/html/images/mediarecorder_state_diagram.gif,761a2a36a42e557c00838ffa84b4ef524183867e,FALSE,not class diagram
+apache/batik/,https://www.github.com/apache/batik/tree/trunk/documentation-sources/resources/images/HighLevelArchitecture.png,761a2a36a42e557c00838ffa84b4ef524183867e,FALSE,not class diagram
+apache/click/,https://www.github.com/apache/click/tree/trunk/documentation/xdocs/src/images/ajax/ajax-class-diagram.png,92cffd5b5991580a97005235319304d08b78d5d7,TRUE,
+apache/click/,https://www.github.com/apache/click/tree/trunk/documentation/xdocs/src/images/ajax/ajax-request-sequence-diagram.png,92cffd5b5991580a97005235319304d08b78d5d7,FALSE,not class diagram
+apache/click/,https://www.github.com/apache/click/tree/trunk/documentation/xdocs/src/images/controls/behavior-class-diagram.png,92cffd5b5991580a97005235319304d08b78d5d7,TRUE,
+apache/click/,https://www.github.com/apache/click/tree/trunk/documentation/xdocs/src/images/controls/control-class-diagram.png,92cffd5b5991580a97005235319304d08b78d5d7,TRUE,
+apache/click/,https://www.github.com/apache/click/tree/trunk/documentation/xdocs/src/images/controls/control-package-class-diagram.png,92cffd5b5991580a97005235319304d08b78d5d7,TRUE,
+apache/click/,https://www.github.com/apache/click/tree/trunk/documentation/xdocs/src/images/controls/control-post-sequence-diagram.png,92cffd5b5991580a97005235319304d08b78d5d7,FALSE,not class diagram
+apache/click/,https://www.github.com/apache/click/tree/trunk/documentation/xdocs/src/images/pages/activity-diagram-small.png,92cffd5b5991580a97005235319304d08b78d5d7,FALSE,not class diagram
+apache/click/,https://www.github.com/apache/click/tree/trunk/documentation/xdocs/src/images/pages/click-class-diagram.png,92cffd5b5991580a97005235319304d08b78d5d7,TRUE,
+apache/click/,https://www.github.com/apache/click/tree/trunk/documentation/xdocs/src/images/pages/get-sequence-diagram.png,92cffd5b5991580a97005235319304d08b78d5d7,FALSE,not class diagram
+apache/click/,https://www.github.com/apache/click/tree/trunk/documentation/xdocs/src/images/pages/page-action-sequence-diagram.png,92cffd5b5991580a97005235319304d08b78d5d7,FALSE,not class diagram
+apache/struts-archive/,struts-doc-1.1/api/org/apache/struts/action/doc-files/actionUML.gif,5158776f5f7310821330137311880c8edb969f0e,FALSE,not class diagram
+apache/struts-archive/,struts-doc-1.1/api/org/apache/struts/actions/doc-files/actionsUML.gif,5158776f5f7310821330137311880c8edb969f0e,TRUE,
+apache/struts-archive/,struts-doc-1.1/api/org/apache/struts/config/doc-files/configUML.gif,5158776f5f7310821330137311880c8edb969f0e,TRUE,
+apache/struts-archive/,struts-doc-1.1/api/org/apache/struts/taglib/bean/doc-files/beanUML.gif,5158776f5f7310821330137311880c8edb969f0e,TRUE,
+apache/struts-archive/,struts-doc-1.1/api/org/apache/struts/taglib/html/doc-files/htmlUML.gif,5158776f5f7310821330137311880c8edb969f0e,TRUE,
+apache/struts-archive/,struts-doc-1.1/api/org/apache/struts/taglib/logic/doc-files/logicUML.gif,5158776f5f7310821330137311880c8edb969f0e,TRUE,
+apache/struts-archive/,struts-doc-1.1/api/org/apache/struts/taglib/nested/doc-files/nestedUML.gif,5158776f5f7310821330137311880c8edb969f0e,TRUE,
+apache/struts-archive/,struts-doc-1.1/api/org/apache/struts/taglib/tiles/doc-files/tilesUML.gif,5158776f5f7310821330137311880c8edb969f0e,TRUE,
+apache/struts-archive/,struts-doc-1.1/api/org/apache/struts/tiles/doc-files/tilesUML.gif,5158776f5f7310821330137311880c8edb969f0e,TRUE,
+apache/struts-archive/,struts-doc-1.1/api/org/apache/struts/upload/doc-files/uploadUML.jpg,5158776f5f7310821330137311880c8edb969f0e,TRUE,
+apache/struts-archive/,struts-doc-1.1/api/org/apache/struts/validator/doc-files/validatorUML.jpg,5158776f5f7310821330137311880c8edb969f0e,TRUE,
+apache/struts-archive/,struts-sandbox/tiles-original/core-library/src/java/org/apache/taglib/tiles/doc-files/tilesUML.gif,5158776f5f7310821330137311880c8edb969f0e,TRUE,
+apache/struts-archive/,struts-sandbox/tiles-original/core-library/src/java/org/apache/tiles/doc-files/tilesUML.gif,5158776f5f7310821330137311880c8edb969f0e,TRUE,
+apache/tomee-site/,https://www.github.com/apache/tomee-site/tree/trunk/content/resources/images/ClassDiagram.png,2213df2419fecc8fb43b018b52f2094530a74a96,TRUE,
+apache/wicket/,wicket-user-guide/src/docs/img/mywebapp-class-diagramm.jpg,4c0c2d5d5b40bacfb4e9f169015b92953a8e3ef3,TRUE,
+apache/wicket/,wicket-user-guide/src/docs/img/uml-form-component.png,4c0c2d5d5b40bacfb4e9f169015b92953a8e3ef3,TRUE,
+apache/wicket/,wicket-user-guide/src/docs/imgOrigin/mywebapp-class-diagramm.jpg,4c0c2d5d5b40bacfb4e9f169015b92953a8e3ef3,TRUE,
+apache/wicket/,wicket-user-guide/src/docs/imgOrigin/uml-form-component.png,4c0c2d5d5b40bacfb4e9f169015b92953a8e3ef3,TRUE,
+aplgithub/haikudepotserver/,haikudepotserver-docs/src/images/img-architectureoverview.png,f531308080894a4c66846e37c9fb416d92f170d2,FALSE,not class diagram
+arcadenea/rockbot/,docs/diagram.png,babd533dc6e8d57e5da92503ea5116677a390ee5,TRUE,
+arcadenea/rockbot/,docs/diagram.xmi,babd533dc6e8d57e5da92503ea5116677a390ee5,FALSE,OOS
+atoader/HilbertRTree/,doc/Report/img/ClassDiagram.png,971e66b56743d8f2a8d0841bfcd4a2aac6b926dd,TRUE,
+bboecherer/SailingSchoolManagerWPF/,ClassDiagram1.jpg,6335ebd6f12e8be5237fac2aae9c364a9934fee4,TRUE,
+bboecherer/SailingSchoolManagerWPF/,ClassDiagram1.png,6335ebd6f12e8be5237fac2aae9c364a9934fee4,TRUE,
+bboecherer/SailingSchoolManagerWPF/,ClassDiagram2.png,6335ebd6f12e8be5237fac2aae9c364a9934fee4,TRUE,
+bboecherer/SailingSchoolManagerWPF/,ClassDiagram3.png,6335ebd6f12e8be5237fac2aae9c364a9934fee4,TRUE,
+bboecherer/SailingSchoolManagerWPF/,ModelingProject1/ModelDefinition/ModelingProject1.uml,6335ebd6f12e8be5237fac2aae9c364a9934fee4,FALSE,OOS
+BeatProgramming/teacher_tracker/,RECURSOS/Diagrama Entidad-Relacion.png,af969ae51f6c5c58fd834382e99b74029c50e854,FALSE,not class diagram
+Bernardo-MG/docs-bootstrap-template/,demo/example_class_diagram.png,8282d007c3450344b5653fef36417d4f17d23e36,TRUE,
+bestplay9384/LTE-Sim-Simulator/,DOC/uml.png,be506535325b354b4164cb6829d40baf4ab26db9,TRUE,
+Biomechanical-ToolKit/BTKCore/,Utilities/matlab_xunit/architecture/html/class_diagram_a.gif,d4c03aa9e354be16265d0efe0815c09b35abc642,TRUE,
+Biomechanical-ToolKit/BTKCore/,Utilities/matlab_xunit/architecture/html/class_diagram_c.gif,d4c03aa9e354be16265d0efe0815c09b35abc642,TRUE,
+BirgPublicizer/Metabolomics-Analysis-Toolbox/,lib/matlab_xunit/architecture/html/class_diagram_a.gif,b99ce1785c8c6d078329c7a1e2de3bffbf3177e6,TRUE,
+BirgPublicizer/Metabolomics-Analysis-Toolbox/,lib/matlab_xunit/architecture/html/class_diagram_b.gif,b99ce1785c8c6d078329c7a1e2de3bffbf3177e6,TRUE,
+BirgPublicizer/Metabolomics-Analysis-Toolbox/,lib/matlab_xunit/architecture/html/class_diagram_c.gif,b99ce1785c8c6d078329c7a1e2de3bffbf3177e6,TRUE,
+BKcore/JungleIN/,doc/class.diagram.uml,03ceaf069cb7bbd6704258111dcc83f0782cbe8d,FALSE,OOS
+blackberry/BB10-WebWorks-Community-Samples/,Ant-Build-Script/tools/apache-ant-1.8.2/docs/manual/Tasks/image-classdiagram.gif,79c1ba132e27e16d87784e6cdc016d1d62899cb3,TRUE,
+blackberry/BB10-WebWorks-Community-Samples/,Ant-Cordova-Build-Script/tools/apache-ant-1.8.2/docs/manual/Tasks/image-classdiagram.gif,79c1ba132e27e16d87784e6cdc016d1d62899cb3,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_pensool_.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_b.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_b_2.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_b_3.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_b_4.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_b_5.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_c.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_c_2.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_d.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_10.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_11.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_12.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_13.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_14.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_15.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_17.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_18.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_19.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_2.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_20.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_21.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_22.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_23.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_24.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_25.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_3.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_4.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_5.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_6.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_7.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_8.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_g_9.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_l.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_m_10.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_m_11.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_m_12.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_m_13.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_m_14.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_m_15.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_m_2.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_m_3.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_m_4.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_m_5.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_m_6.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_m_7.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_m_8.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_m_9.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_p.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_p_2.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_p_3.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_p_4.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_p_5.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_s.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_s_2.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+bootchk/pensool/,doc/html/uml_class_diagram_for_source_t.gif,3dcc7cea3eb37a70b2baa0dc8817a29a15bbfed4,TRUE,
+borman/phoneme-qtopia/,jsr229/src/share/classes/javax/microedition/payment/doc-files/design.gif,6b9dba7c03e83ed662d134899c46077a8cf6042c,TRUE,
+brian-j-smith/Mamba.jl/,doc/images/mcmcUML.png,2775158e2650450f8704e1b78643c44fabeb51ee,TRUE,
+brian-j-smith/Mamba.jl/,doc/images/variateUML.png,2775158e2650450f8704e1b78643c44fabeb51ee,TRUE,
+BrOrlandi/SFECommerce/,uml_diagram.png,c60b1c7aad7e31682a7960845ded7f869ee494be,TRUE,
+bruceoutdoors/Intro-Design-Patterns-Cpp-Qt5/,modelview/propertyselector/propertyselectorUML.png,eee980c8be4ca9fad7aa924183e9fad9df382aa4,TRUE,
+bruceoutdoors/Intro-Design-Patterns-Cpp-Qt5/,puzzle/puzzle-uml.png,eee980c8be4ca9fad7aa924183e9fad9df382aa5,TRUE,
+bruceoutdoors/Intro-Design-Patterns-Cpp-Qt5/,libs/customer/libcustomer.xmi,eee980c8be4ca9fad7aa924183e9fad9df382aa6,FALSE,OOS
+bruceoutdoors/Intro-Design-Patterns-Cpp-Qt5/,libs/dataobjects/address.xmi,eee980c8be4ca9fad7aa924183e9fad9df382aa7,FALSE,OOS
+bruceoutdoors/Intro-Design-Patterns-Cpp-Qt5/,libs/dataobjects/dataobjects.xmi,eee980c8be4ca9fad7aa924183e9fad9df382aa8,FALSE,OOS
+bruceoutdoors/Intro-Design-Patterns-Cpp-Qt5/,libs/dataobjects/qobjectreader.xmi,eee980c8be4ca9fad7aa924183e9fad9df382aa9,FALSE,OOS
+bruceoutdoors/Intro-Design-Patterns-Cpp-Qt5/,libs/dataobjects/serializer.xmi,eee980c8be4ca9fad7aa924183e9fad9df382aa10,FALSE,OOS
+bruceoutdoors/Intro-Design-Patterns-Cpp-Qt5/,libs/metadata/metadata.xmi,eee980c8be4ca9fad7aa924183e9fad9df382aa11,FALSE,OOS
+bruceoutdoors/Intro-Design-Patterns-Cpp-Qt5/,mystring/shareddata/sstring.xmi,eee980c8be4ca9fad7aa924183e9fad9df382aa12,FALSE,OOS
+bruceoutdoors/Intro-Design-Patterns-Cpp-Qt5/,properties/antipattern.xmi,eee980c8be4ca9fad7aa924183e9fad9df382aa13,FALSE,OOS
+bruceoutdoors/Intro-Design-Patterns-Cpp-Qt5/,timer/speed-reader/speed-reader.xmi,eee980c8be4ca9fad7aa924183e9fad9df382aa14,FALSE,OOS
+bruceoutdoors/Intro-Design-Patterns-Cpp-Qt5/,xml/domwalker/domwalker.xmi,eee980c8be4ca9fad7aa924183e9fad9df382aa15,FALSE,OOS
+bruceoutdoors/Intro-Design-Patterns-Cpp-Qt5/,xml/sax1/xmlreader.xmi,eee980c8be4ca9fad7aa924183e9fad9df382aa16,FALSE,OOS
+Canadensys/narwhal-processor/,doc/Narwhal Class Diagram.png,a81e74d27eedfd68af199839acb3b7da8ed1d732,TRUE,
+cechrist/cardoon/,doc/circuit_uml.png,cf0ae03f5a957f41a2f063aa0aa09df008a7239f,TRUE,
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Authentication.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Entities.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Repositories.Queries.SortParameter.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Repositories.Queries.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Repositories.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/Cqrs.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Authentication.Entities.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Authentication.Repositories.Queries.Strategies.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Authentication.Repositories.Queries.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Authentication.Repositories.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Authentication.Services.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Authentication.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.Commands.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.Entities.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.Events.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.Repositories.Queries.Strategies.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.Repositories.Queries.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.Repositories.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.Services.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/MyCompany.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/Root.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/System.Collections.Generic.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/System.Collections.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,ProjectTemplate/MyCompany.MyProject.Models/ModelDefinition/System.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Authentication.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Entities.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Repositories.Queries.SortParameter.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Repositories.Queries.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Repositories.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/Cqrs.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Authentication.Entities.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Authentication.Repositories.Queries.Strategies.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Authentication.Repositories.Queries.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Authentication.Repositories.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Authentication.Services.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Authentication.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.Commands.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.Entities.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.Events.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.Repositories.Queries.Strategies.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.Repositories.Queries.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.Repositories.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.Services.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Inventory.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/MyCompany.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/Root.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/System.Collections.Generic.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/System.Collections.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Sample/MyCompany.MyProject.Models/ModelDefinition/System.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 1/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Authentication.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 1/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Entities.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 1/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Repositories.Queries.SortParameter.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 1/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Repositories.Queries.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 1/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Repositories.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 1/MyCompany.MyProject.Models/ModelDefinition/Cqrs.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 1/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 1/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 1/MyCompany.MyProject.Models/ModelDefinition/MyCompany.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 1/MyCompany.MyProject.Models/ModelDefinition/Root.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 1/MyCompany.MyProject.Models/ModelDefinition/System.Collections.Generic.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 1/MyCompany.MyProject.Models/ModelDefinition/System.Collections.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 1/MyCompany.MyProject.Models/ModelDefinition/System.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 2/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Authentication.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 2/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Entities.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 2/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Repositories.Queries.SortParameter.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 2/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Repositories.Queries.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 2/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Repositories.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 2/MyCompany.MyProject.Models/ModelDefinition/Cqrs.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 2/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 2/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 2/MyCompany.MyProject.Models/ModelDefinition/MyCompany.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 2/MyCompany.MyProject.Models/ModelDefinition/Root.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 2/MyCompany.MyProject.Models/ModelDefinition/System.Collections.Generic.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 2/MyCompany.MyProject.Models/ModelDefinition/System.Collections.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 2/MyCompany.MyProject.Models/ModelDefinition/System.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Authentication.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Entities.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Repositories.Queries.SortParameter.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Repositories.Queries.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/Cqrs.Repositories.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/Cqrs.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Terminals.Commands.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Terminals.Entities.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Terminals.Events.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Terminals.Repositories.Queries.Strategies.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Terminals.Repositories.Queries.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Terminals.Repositories.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Terminals.Services.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.Terminals.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.Domain.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/MyCompany.MyProject.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/MyCompany.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/Root.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/System.Collections.Generic.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/System.Collections.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+Chinchilla-Software-Com/CQRS/,Step 3x/MyCompany.MyProject.Models/ModelDefinition/System.uml,ac7419ce81389adaf833ff09dc56e9309be7e5fe,FALSE,OOS
+ChrisCummins/pip-db/,Documentation/plan/assets/uml_template.png,c2fe5c48a635005cd0b72c2134761a8670f99f37,TRUE,
+chuxi/chuxi.github.io/,assets/2015-04-20-files/spark.xmi,1183b8debcbfc9428ea5b858f277b3add837b53d,FALSE,OOS
+cjferba/Poker/,Diagramadeclase.png,6c180b573048217e8c95ef50ec91fbdf060982ee,TRUE,
+cjw-network/cjw_newsletter/,doc/uml/class_diagram.svg,de3a43ea027f546a3b3c1ea12fef86571ff4bae3,TRUE,
+clbustos/PHP_Beautifier/,uml/PHP_Beautifier.xmi,7505f713d7c503cc712c92af2267352598714d4c,FALSE,OOS
+SafirSDK/safir-sdk-core/,docs/users_guide/images/dispatching_sequence_diagram.png,c3a6f0d07ab6e8060d1b096bb87cc13daaa92625,FALSE,not class diagram
+SafirSDK/safir-sdk-core/,docs/users_guide/images/entities_sequence_diagram.png,c3a6f0d07ab6e8060d1b096bb87cc13daaa92625,FALSE,not class diagram
+SafirSDK/safir-sdk-core/,docs/users_guide/images/injection_sequence_diagram.png,c3a6f0d07ab6e8060d1b096bb87cc13daaa92625,FALSE,not class diagram
+SafirSDK/safir-sdk-core/,docs/users_guide/images/persistence_sequence_diagram.png,c3a6f0d07ab6e8060d1b096bb87cc13daaa92625,FALSE,not class diagram
+SafirSDK/safir-sdk-core/,docs/users_guide/images/redundancy_sequence_diagram.png,c3a6f0d07ab6e8060d1b096bb87cc13daaa92625,FALSE,not class diagram
+SafirSDK/safir-sdk-core/,docs/users_guide/images/services_sequence_diagram.png,c3a6f0d07ab6e8060d1b096bb87cc13daaa92625,FALSE,not class diagram
+SafirSDK/safir-sdk-core/,docs/users_guide/images/vehicleapp_class_diagram.png,c3a6f0d07ab6e8060d1b096bb87cc13daaa92625,TRUE,
+SafirSDK/safir-sdk-core/,docs/users_guide/images/vehicledb_class_diagram.png,c3a6f0d07ab6e8060d1b096bb87cc13daaa92625,TRUE,
+SafirSDK/safir-sdk-core/,docs/users_guide/images/vehiclemmi_class_diagram.png,c3a6f0d07ab6e8060d1b096bb87cc13daaa92625,TRUE,
+SafirSDK/safir-sdk-core/,docs/users_guide/images/messages_sequence_diagram.png,c3a6f0d07ab6e8060d1b096bb87cc13daaa92625,FALSE,not class diagram
+sbhatore/SSAD46/,diagrams/Component_diagram1.png,5f7a243633f74aca1851d0af3d6477f3b971acfd,FALSE,not class diagram
+sbhatore/SSAD46/,diagrams/SRS-UML1.png,5f7a243633f74aca1851d0af3d6477f3b971acfd,FALSE,not class diagram
+sbhatore/SSAD46/,diagrams/Updated_UML.jpg,5f7a243633f74aca1851d0af3d6477f3b971acfd,FALSE,not class diagram
+SBR2015/ootalk/,misc/UML/teacher/UML.png,1defea6bb3f2c89792f9bd61308633842d1505ca,TRUE,
+scikit-beam/scikit-beam/,doc/img/arch/NSLS2Widget Object Diagram 5-23-14.jpg,32c20acb15d613b5b5c894311694712507731eb0,TRUE,
+scipy-conference/scipy_proceedings_2015/,papers/jacqueline_kazil/mesa_diagram.png,b00f25d04823a7fdc74d99392f6b1cc932f7bfc5,FALSE,not class diagram
+sculptor/sculptor.github.io/,images/2010-03-20-improved-graphviz-visualization/umlgraph.dot.png,632071a44bc6f2c39046cbaaa8c04c0709617cc2,TRUE,
+sculptor/sculptor.github.io/,images/2010-04-27-mongodb-with-sculptor---introduction/blog_umlgraph.png,632071a44bc6f2c39046cbaaa8c04c0709617cc2,TRUE,
+sculptor/sculptor.github.io/,images/2010-06-10-improving-developer-productivity-with-sculptor/umlgraph.png,632071a44bc6f2c39046cbaaa8c04c0709617cc2,TRUE,
+sculptor/sculptor.github.io/,images/documentation/event-driven-tutorial/umlgraph-simple_eventsourcing.png,632071a44bc6f2c39046cbaaa8c04c0709617cc2,TRUE,
+sculptor/sculptor.github.io/,images/documentation/hello-world-tutorial/helloworld-design-classes.png,632071a44bc6f2c39046cbaaa8c04c0709617cc2,TRUE,
+sculptor/sculptor.github.io/,images/documentation/hello-world-tutorial/helloworld-design-sequence.png,632071a44bc6f2c39046cbaaa8c04c0709617cc2,FALSE,not class diagram
+sebastianrahtz/oxgarage/,ege-api/src/site/resources/images/uml.gif,6267b8bb4a2bc2d539e07eadcce777cea11ef247,TRUE,
+sebastianrahtz/oxgarage/,ege-framework/src/site/resources/images/uml.gif,6267b8bb4a2bc2d539e07eadcce777cea11ef247,TRUE,
+sebastianrahtz/oxgarage/,ege-validator/src/site/resources/images/uml.gif,6267b8bb4a2bc2d539e07eadcce777cea11ef247,TRUE,
+sebastianrahtz/oxgarage/,ege-webclient/src/site/resources/images/uml.gif,6267b8bb4a2bc2d539e07eadcce777cea11ef247,TRUE,
+sebastianrahtz/oxgarage/,ege-webservice/src/site/resources/images/uml.gif,6267b8bb4a2bc2d539e07eadcce777cea11ef247,TRUE,
+sebastianrahtz/oxgarage/,ege-xsl-converter/src/site/resources/images/uml.gif,6267b8bb4a2bc2d539e07eadcce777cea11ef247,TRUE,
+sebastianrahtz/oxgarage/,src/site/resources/images/uml.gif,6267b8bb4a2bc2d539e07eadcce777cea11ef247,TRUE,
+sebastianrahtz/oxgarage/,tei-converter/src/site/resources/images/uml.gif,6267b8bb4a2bc2d539e07eadcce777cea11ef247,TRUE,
+sebnil/Sketchy-Truck/,andengine/uml/andengine_classdiagram.png,3b3f42cd660ba2570446771b3f927a3beeaae52c,TRUE,
+seeburger-ag/jbossts/,ArjunaJTS/docs/development_guide/en-US/images/sequence-diagram.png,31c6f5d03a67c6b13bfe2694396c146e49f954bc,FALSE,not class diagram
+seeburger-ag/jbossts/,docs/failure_recovery_guide/en-US/images/fig1-crashrecoveryarchitecture.gif,31c6f5d03a67c6b13bfe2694396c146e49f954bc,FALSE,not class diagram
+shamanDevel/ProceduralTerrain/,src/net/sourceforge/arbaro/doc-files/UMLShemas.xmi,e3592e3cb0c52a4a45b02eb6a9194c2dd4ed2e9f,FALSE,OOS
+shigeya/omnetpp/,ide/plugins/org.omnetpp.doc_4.3.0.130403-bf01aae/content/userguide/pictures/NEDDOC-UsageDiagram.png,d6c472b7f8935a99550809afa1d75b44999d6924,TRUE,
+SINTEF-9012/ThingML/,compilers/docs/design.jpg,d12b3c6b44ff077865f54e9db0c105e6e43b46ae,TRUE,
+SixK/CC1101-X2D-Heaters/,www/PHPExcel-1.8/Documentation/assets/ClassDiagrams/Architecture.png,d7161d692eee7bf4c6d81291eacbc65f1586d491,TRUE,
+skython/eXe/,doc/exe_class.xmi,f566eecda72e8587fa6205223a12924eeabbbfbd,FALSE,OOS
+SleeplessByte/programming-life/,docs/deliverables/ead/SequenceDiagramLife.png,30639aef54281e933b547252007a4fbf79b52fdc,FALSE,not class diagram
+slowli/software-engineering-lectures/,03/state-diagram.png,a147664fe0870bbd5ccd57235662a76c9c08a87b,FALSE,not class diagram
+snowplow/snowplow.github.com/,assets/img/architecture.png,2c9bc0cc753d0dff9576ee9d12f075ccbbc8ef11,FALSE,not class diagram
+SonarSource/sonar-java/,its/plugin/projects/struts-1.3.9-lite/taglib/src/main/java/org/apache/struts/taglib/nested/doc-files/nestedUML.gif,10302ab01003933abf482ca9b77c9a9cecbdbb60,TRUE,
+SonarSource/sonar-java/,its/plugin/projects/struts-1.3.9-lite/tiles/src/main/java/org/apache/struts/tiles/taglib/doc-files/tilesUML.gif,10302ab01003933abf482ca9b77c9a9cecbdbb60,TRUE,
+sones/sones/,Documentation/media/documentation/database/edges/classdiagram_edges.png,773b7a7dbbad6032e18a28e011111a1fc2d37447,TRUE,
+sones/sones/,Documentation/media/documentation/database/edges/classdiagram_edges_.png,773b7a7dbbad6032e18a28e011111a1fc2d37447,TRUE,
+sones/sones/,Documentation/media/documentation/database/edges/classdiagram_edges_trans.png,773b7a7dbbad6032e18a28e011111a1fc2d37447,TRUE,
+spcs/synaps/,doc/source/images/synaps.uml,d72618ec7a7920ffdd490e53b82a6f4b9201e1df,FALSE,OOS
+spring-projects/spring-net/,doc/reference/src/images/Migration_App_UML_Diagram.png,8aeb95320a96bb2759a5d756632f23ebb775abc8,TRUE,
+spring-projects/spring-net/,doc/reference/src/images/aop-uml.gif,8aeb95320a96bb2759a5d756632f23ebb775abc8,TRUE,
+sprossiter/JSIT/,src/main/resources/docs/diagrams/eventsArchitecture.png,c9f62cfda50454e6123446e8933d67c23808d00f,TRUE,
+SquareBracketAssociates/PharoMooc/,Slides/figures/Design-FatVsDispatch.png,cf967c8a328ee919c3bba90911a2406eedb42c54,TRUE,
+SquareBracketAssociates/PharoMooc/,Slides/figures/InheritanceDiagram-from-Object.png,cf967c8a328ee919c3bba90911a2406eedb42c54,TRUE,
+SquareBracketAssociates/PharoMooc/,Slides/figures/InheritanceDiagram-lookup-superclass.png,cf967c8a328ee919c3bba90911a2406eedb42c54,TRUE,
+SquareBracketAssociates/PharoMooc/,Slides/figures/InheritanceDiagram-lookup-withBlank.png,cf967c8a328ee919c3bba90911a2406eedb42c54,TRUE,
+SquareBracketAssociates/PharoMooc/,Slides/figures/InheritanceDiagram-lookup.png,cf967c8a328ee919c3bba90911a2406eedb42c54,TRUE,
+SquareBracketAssociates/PharoMooc/,Slides/figures/InheritanceDiagram-lookupTwoStages.png,cf967c8a328ee919c3bba90911a2406eedb42c54,TRUE,
+SquareBracketAssociates/PharoMooc/,Slides/figures/InheritanceDiagram-sendingMessage.png,cf967c8a328ee919c3bba90911a2406eedb42c54,TRUE,
+SquareBracketAssociates/PharoMooc/,Slides/figures/MetaclassDiagram.png,cf967c8a328ee919c3bba90911a2406eedb42c54,TRUE,
+SquareBracketAssociates/PharoMooc/,Slides/figures/Design-FatVsDispatchWithPackages.png,cf967c8a328ee919c3bba90911a2406eedb42c54,TRUE,
+SquareBracketAssociates/PharoMooc/,Slides/figures/InheritanceDiagram.png,cf967c8a328ee919c3bba90911a2406eedb42c54,TRUE,
+sriram-mahavadi/extlp/,doc/images/btree_uml.png,164176acd5eb0cb233994657dbee921442377ac8,TRUE,
+sriram-mahavadi/extlp/,doc/images/btree_uml_small.png,164176acd5eb0cb233994657dbee921442377ac8,TRUE,
+sriram-mahavadi/extlp/,doc/images/btree_uml.xmi,164176acd5eb0cb233994657dbee921442377ac8,FALSE,OOS
+statismo/statismo/,doc/IJ/pictures/class_diagram.png,7ffc10d66e9d8586532b41c34e307da13c21e014,TRUE,
+statismo/statismo/,doc/IJ/pictures/class_diagram.svg,7ffc10d66e9d8586532b41c34e307da13c21e014,TRUE,
+statismo/statismo/,doc/classdoc/class_diagram.png,7ffc10d66e9d8586532b41c34e307da13c21e014,TRUE,
+statismo/statismo/,doc/Design.xmi,7ffc10d66e9d8586532b41c34e307da13c21e014,FALSE,OOS
+Stealth80/NickHollis/,MobileFriendlyWebApp/public/img/class-diagram.png,86bb9a6db465dc8c70597d134b53c385da669f27,TRUE,
+stefan-ka/stefan-ka.github.io/,media/012016-autopilot-object_diagram.png,27961e01eaf270f0b5f7c160d64023aed4b73a69,TRUE,
+streambuf/recognition_numbers/,screenshots/UML3.png,00c90e24dcc8809c3cdb3a5b6943a2ee71cb8b3a,TRUE,
+stritti/log4js/,log4js-site/xdocs/resources/images/Log4JS-UML.jpg,7e876c43d7a077f6bbb341ed4f6a8af76584e415,TRUE,
+sungsoo/sungsoo.github.com/,images/email-sequence-diagram.svg,9aaeebbc9b315582c8ff42a948c3d0f89135996c,FALSE,not class diagram
+sunnypatel/Classwork/,Junior Yr/Spring_2012/cs350-SoftwareDesign/survey/UML_HW2.png,851c4de71177274140086c6659e6a26b9a5353bf,TRUE,
+svstuff/systemverilog/,uvm-1.1d/docs/html/images/uvm_ref_phases_uml.gif,6f55a3e01a180cafee89a851509fb99ee9e231e8,FALSE,not class diagram
+symfony/symfony1-docs/,jobeet/images/03/diagram.png,d26edd9aa93dcf63d29e447abdbdda4138aaad0c,TRUE,
+tanure/ExemploMVP/,src/ExemploMVP.Web/Images/DiagramaClasse.png,8c16bef479917c3b2773443975322035b646e77e,TRUE,
+tazzledazzle/UW-CSS/,343/lab4/lab4classUML.jpg,5afa5a6769c905952668b9b2647abf48a7faac7c,TRUE,
+tcs-ulli/fpvectorial/,docs/fpvectorial.uml,5e45de5af94562751b43ffdb99e97c4e3d604e8a,FALSE,OOS
+TeamW/Sports-Elimination-TP3/,docs/diagrams/classDiagram.png,2b5c352b2629471a66e1cbcac1f6c363ad8e8b78,TRUE,
+TeamW/Sports-Elimination-TP3/,docs/report/images/DesktopApplicationSystemArchitecture.png,2b5c352b2629471a66e1cbcac1f6c363ad8e8b78,FALSE,not class diagram
+TheAxeC/AxeSki/,development/analyseVerslag-tex/AnalyseClassenDiagram/uml.png,640dbeda71d0ec5eb895cdcaa9a4c7d55d811953,TRUE,
+TheAxeC/AxeSki/,development/codebase/diagram.png,640dbeda71d0ec5eb895cdcaa9a4c7d55d811953,TRUE,
+TheAxeC/AxeSki/,development/eindVerslag-tex/AnalyseADTAlgorithm/blockmodel/baseclassuml.png,640dbeda71d0ec5eb895cdcaa9a4c7d55d811953,TRUE,
+TheAxeC/AxeSki/,development/eindVerslag-tex/AnalyseADTAlgorithm/blockmodel/topleveluml.png,640dbeda71d0ec5eb895cdcaa9a4c7d55d811953,TRUE,
+TheAxeC/AxeSki/,development/eindVerslag-tex/AnalyseADTAlgorithm/viewsmvc/diagram.png,640dbeda71d0ec5eb895cdcaa9a4c7d55d811953,TRUE,
+TheAxeC/AxeSki/,development/eindVerslag-tex/AnalyseClassenDiagram/uml.png,640dbeda71d0ec5eb895cdcaa9a4c7d55d811953,TRUE,
+thethythy/Mnemopwd/,design/class_diagram.png,dbe2e7777320fcf80572e03bcb906aad608649d5,TRUE,
+TimLethbridge/umple/,umplewww/files/umple_example_uml.jpg,e11a266841bb89691134edab415fae3030f1f3c0,TRUE,
+TimLethbridge/umple/,umpleonline/ump/imagecache/AfghanRainDesign.svg,e11a266841bb89691134edab415fae3030f1f3c0,TRUE,
+TimLethbridge/umple/,umpleonline/ump/imagecache/VendingMachineClassDiagram.svg,e11a266841bb89691134edab415fae3030f1f3c0,TRUE,
+tlin-fei/ds4p/,DS4P/acs-showcase/ACS Showcase Class Diagram.png,a12559e46e35c483686264cec2669651537fa23b,TRUE,
+tlin-fei/ds4p/,DS4P/acs-showcase/ACS Showcase Sequence Diagram PixMgr Functionality.png,a12559e46e35c483686264cec2669651537fa23b,FALSE,not class diagram
+tlin-fei/ds4p/,DS4P/consent-gen/Consent - Gen Class Diagram.png,a12559e46e35c483686264cec2669651537fa23b,TRUE,
+tlin-fei/ds4p/,DS4P/acs-showcase/ACS Showcase Sequence Diagram PixMgr Functionality.png,a12559e46e35c483686264cec2669651537fa23b,FALSE,not class diagram
+tmtxt/tmtxt.github.com/,files/2013-03-30-microcontroller-emulation-in-cpp/class_diagram.png,b65dc707969a1b79bfa60a5f243c4825aafda5cc,TRUE,
+tourdedave/elemental-selenium-tips/,vendor/apache-jmeter-2.11/docs/images/screenshots/class_diagram.gif,fc020aef9ae2937bc946cb008dfc19dc3c8e3ab8,TRUE,
+toutpt/collective.trainingmanual/,developpeur/source/archgenxml/argouml_ajout_methode.jpg,05c79bb105f04769f3f37a60bdded60fe5f492b3,TRUE,
+toutpt/collective.trainingmanual/,developpeur/source/python/ConceptionUMLDeLaClasseCercle.jpg,05c79bb105f04769f3f37a60bdded60fe5f492b3,TRUE,
+toutpt/collective.trainingmanual/,developpeur/source/uml/uml_repr_associations.jpg,05c79bb105f04769f3f37a60bdded60fe5f492b3,TRUE,
+toutpt/collective.trainingmanual/,developpeur/source/uml/uml_repr_diagramme_classes.jpg,05c79bb105f04769f3f37a60bdded60fe5f492b3,TRUE,
+toutpt/collective.trainingmanual/,developpeur/source/uml/uml_repr_realisations.jpg,05c79bb105f04769f3f37a60bdded60fe5f492b3,TRUE,
+toutpt/collective.trainingmanual/,docs/developpeur/_images/ConceptionUMLDeLaClasseCercle.jpg,05c79bb105f04769f3f37a60bdded60fe5f492b3,TRUE,
+toutpt/collective.trainingmanual/,docs/developpeur/_images/argouml_ajout_methode.jpg,05c79bb105f04769f3f37a60bdded60fe5f492b3,TRUE,
+toutpt/collective.trainingmanual/,docs/developpeur/_images/uml_repr_associations.jpg,05c79bb105f04769f3f37a60bdded60fe5f492b3,TRUE,
+toutpt/collective.trainingmanual/,docs/developpeur/_images/uml_repr_diagramme_classes.jpg,05c79bb105f04769f3f37a60bdded60fe5f492b3,TRUE,
+toutpt/collective.trainingmanual/,docs/developpeur/_images/uml_repr_realisations.jpg,05c79bb105f04769f3f37a60bdded60fe5f492b3,TRUE,
+tupilabs/tap4j/,tap4j/src/documents/uml/ClassDiagram1.jpg,8ed497410c68a3d7723d7166fbdc77fdaad9ff91,TRUE,
+tupilabs/tap4j/,tap4j/src/documents/uml/tap4j.uml,8ed497410c68a3d7723d7166fbdc77fdaad9ff91,FALSE,OOS
+ua-eas/ua-rice-2.1.9/,src/site/docbook/images/KRMS_Execution_Log_Class_Diagram.png,492509b1bd57fd667d40e686d25d880ebbe5fa82,TRUE,
+UnboundID/ldapsdk/,ext/ant/manual/Tasks/image-classdiagram.gif,b8fb23d5d9e4bff81ccad16b66783c032cdbda06,TRUE,
+Unidata/awips2/,cave/com.raytheon.viz.gfe/help/images/WxDesign.png,,FALSE,missing commit
+Unidata/awips2/,nativeLib/rary.cots.hdf5/docs/hdf-object/class_diagram_object.jpg,,FALSE,missing commit
+Unidata/awips2/,nativeLib/rary.cots.hdf5/docs/hdfview/UsersGuide/images/class_diagram_object.jpg,,FALSE,missing commit
+unknown-horizons/unknown-horizons/,development/uml/components_design.png,840bd1a6a2795a96435181b1954c8820f8e9590b,TRUE,
+utn-frm-si/reservas/,docs/uml/diagrama_clases.png,fee8bd5c9b6c53d3c430eb40f0e626355381c33e,TRUE,
+utn-frm-si/reservas/,docs/uml/diagrama_clases.uml,fee8bd5c9b6c53d3c430eb40f0e626355381c33e,FALSE,OOS
+ValentinMinder/CirculationMediator/,TheoreticalMediator/presentation/graphics/UML-0_general.png,4c9c204e964a255319fe9750b3325a484441e8d6,TRUE,
+ValentinMinder/CirculationMediator/,TheoreticalMediator/presentation/graphics/UML-1_interaction.png,4c9c204e964a255319fe9750b3325a484441e8d6,TRUE,
+ValentinMinder/CirculationMediator/,TheoreticalMediator/presentation/graphics/UML-2_carrierMessage.png,4c9c204e964a255319fe9750b3325a484441e8d6,TRUE,
+ValentinMinder/CirculationMediator/,TheoreticalMediator/presentation/graphics/UML-2_carrierMessagePlus.png,4c9c204e964a255319fe9750b3325a484441e8d6,TRUE,
+ValentinMinder/CirculationMediator/,TheoreticalMediator/presentation/graphics/UML-4_workers.png,4c9c204e964a255319fe9750b3325a484441e8d6,TRUE,
+venam/blog/,assets/umlet.jpg,b6eb09f99dbbc48c0a9b01cb639881474b92a2d0,TRUE,
+vlead/dataservice/,src/diagrams/model-diagram.jpg,db8f0c9a97bbad979fb6083d86e3a31f0d738e5b,TRUE,
+vulfgang/coursework-kitten/,CIS29/Final-Lab/Documentation/uml-class-diagram.jpg,699d1d72fc7a09b5ff5cf819c8da58f98848ca88,TRUE,
+vulfgang/coursework-kitten/,CIS35B/Assignment-1/lab-1_uml-class-diagram.jpg,699d1d72fc7a09b5ff5cf819c8da58f98848ca88,TRUE,
+vulfgang/coursework-kitten/,CIS35B/Assignment-2/lab-2_uml-class-diagram.jpg,699d1d72fc7a09b5ff5cf819c8da58f98848ca88,TRUE,
+vulfgang/coursework-kitten/,CIS35B/Assignment-3/lab-3_uml-class-diagram.jpg,699d1d72fc7a09b5ff5cf819c8da58f98848ca88,TRUE,
+vulfgang/coursework-kitten/,CIS35B/Assignment-4/lab-4_uml-class-diagram.jpg,699d1d72fc7a09b5ff5cf819c8da58f98848ca88,TRUE,
+vulfgang/coursework-kitten/,CIS35B/Assignment-5/lab-5_uml-class-diagram.jpg,699d1d72fc7a09b5ff5cf819c8da58f98848ca88,TRUE,
+vulfgang/coursework-kitten/,CIS35B/Documentation/lab-1_uml-class-diagram.jpg,699d1d72fc7a09b5ff5cf819c8da58f98848ca88,TRUE,
+vulfgang/coursework-kitten/,CIS35B/Documentation/lab-2_uml-class-diagram.jpg,699d1d72fc7a09b5ff5cf819c8da58f98848ca88,TRUE,
+vulfgang/coursework-kitten/,CIS35B/Documentation/lab-3_uml-class-diagram.jpg,699d1d72fc7a09b5ff5cf819c8da58f98848ca88,TRUE,
+vulfgang/coursework-kitten/,CIS35B/Documentation/lab-4_uml-class-diagram.jpg,699d1d72fc7a09b5ff5cf819c8da58f98848ca88,TRUE,
+vulfgang/coursework-kitten/,CIS35B/Documentation/lab-5_uml-class-diagram.jpg,699d1d72fc7a09b5ff5cf819c8da58f98848ca88,TRUE,
+vulfgang/coursework-kitten/,CIS35B/Documentation/lab1_uml-class-diagramOLD1.jpg,699d1d72fc7a09b5ff5cf819c8da58f98848ca88,TRUE,
+w3c/data-shapes/,https://www.github.com/w3c/data-shapes/tree/gh-pages/data-shapes-primer/images/square-class-diagram.png,dd4bb1c1de8d05f0ea45e27ef4f47aacc8903cfa,TRUE,
+wagnerjs/SIGAR/,documentacao/Arquitetura/Classe_Diagram.jpg,769c11b54b7014550571f57f263a1605763e0095,TRUE,
+wagnerjs/SIGAR/,documentacao/PlanodeProjeto/Processo de Desenvolvimento/SIGAR_EPF/openup/guidances/guidelines/resources/test_first_design.jpg,769c11b54b7014550571f57f263a1605763e0095,FALSE,not class diagram
+wagnerjs/SIGAR/,processo/SIGAR/openup/guidances/guidelines/resources/test_first_design.jpg,769c11b54b7014550571f57f263a1605763e0095,FALSE,not class diagram
+wakaleo/game-of-life/,gameoflife-web/tools/jmeter/docs/images/screenshots/class_diagram.gif,ce7a8345329907ef9596bb7b51887602277763c6,TRUE,
+wangkuiwu/wangkuiwu.github.io/,media/pic/uml/uml03-04.jpg,b9a5d1f7f2d70b0be69cd47c90c0db32d0283a0e,TRUE,
+wangkuiwu/wangkuiwu.github.io/,media/pic/uml/uml03-05.jpg,b9a5d1f7f2d70b0be69cd47c90c0db32d0283a0e,TRUE,
+webfactory/content-mapping/,doc/class-diagram.png,bba6e3ef282b9f69c62a489cf571bb5ce43f2926,TRUE,
+wimleers/sudoku/,doc/images/UML_1.png,2489c0279e9b8a1c8dff17248a37942c0c7a3a6a,TRUE,
+wimleers/sudoku/,doc/images/UML_2.png,2489c0279e9b8a1c8dff17248a37942c0c7a3a6a,TRUE,
+wolandscat/EOMF/,doc/uml/bmm.xmi,e80bd467e7ddb3c4c48e9865137d88066ae1fbf2,FALSE,
+WouterJ/wouterj.github.com/,img/oo2-uml-has-a.png,e80b3dc54365092e6c9abf094914d97749f14f10,TRUE,
+WouterJ/wouterj.github.com/,img/oo2-uml-is-a.png,e80b3dc54365092e6c9abf094914d97749f14f10,TRUE,
+wro4j/wro4j-examples/,wro4j-demo/doc/WRO - ClassDiagram.jpg,a1fea2fa16245d63a32a7c0c5e12e8c706262edb,TRUE,
+wyon/note/,design_patterns/img/uml_aggregation.gif,0b14ba465611c32cbd13502991634d5236d47889,TRUE,
+wyon/note/,design_patterns/img/uml_association.gif,0b14ba465611c32cbd13502991634d5236d47889,TRUE,
+wyon/note/,design_patterns/img/uml_association_self.gif,0b14ba465611c32cbd13502991634d5236d47889,TRUE,
+wyon/note/,design_patterns/img/uml_case.png,0b14ba465611c32cbd13502991634d5236d47889,TRUE,
+wyon/note/,design_patterns/img/uml_composition.gif,0b14ba465611c32cbd13502991634d5236d47889,TRUE,
+wyon/note/,design_patterns/img/uml_generalization.gif,0b14ba465611c32cbd13502991634d5236d47889,TRUE,
+wyon/note/,design_patterns/img/uml_realization.gif,0b14ba465611c32cbd13502991634d5236d47889,TRUE,
+xenodium/xenodium.github.io/,images/plantuml-example/plantuml-singer.png,1c76be754b1054b93dbe35f3f0c825d257438315,TRUE,
