@@ -116,3 +116,7 @@ If the UML is unreadable or incomplete, return an error message in the JSON:
 { "error": "UML diagram could not be processed due to missing or unclear elements." }
 
 Your goal is to be as accurate and structured as possible while extracting information from UML class diagrams.
+
+**OUTPUT THE RESULTS AS A JSON STRING, WITH NO PREAMBLE.**
+
+Output the results in a way that I can immediately wrap into a Python dict.
